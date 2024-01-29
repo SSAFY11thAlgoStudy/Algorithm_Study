@@ -76,12 +76,12 @@ git commit -m "Upload: 본인 이름 / 날짜 / [문제제목] / 시간"
 
 | Index | 기간 | 알고리즘 분류 | 문제 링크 |
 | :---: | :--------------------: | :----------: | :----------: |
-| 1 | 2023.01.29 ~ 2023.02.04 | SW 역랑테스트 대비 | 
-| 2 | 2023.02.05 ~ 2023.02.11 | SW 역랑테스트 대비 | 
-| 3 | 2023.02.12 ~ 2023.02.18 | SW 역랑테스트 대비 | 
-| 4 | 2023.02.19 ~ 2023.02.25 | SW 역랑테스트 대비 | 
-| 5 | 2023.02.26 ~ 2023.03.03 | SW 역랑테스트 대비 | 
-| 6 | 2023.02.27 ~ 2023.03.05 | SW 역랑테스트 대비 | 
+| 1 | 2023.01.29 ~ 2023.02.04 | 삼성 SW 역랑테스트 대비 | [SWEA 암호문 1](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&problemLevel=3&problemLevel=4&contestProbId=AV14w-rKAHACFAYD&categoryId=AV14w-rKAHACFAYD&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=5) , [SWEA N-Queen](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&problemLevel=3&problemLevel=4&contestProbId=AV7GKs06AU0DFAXB&categoryId=AV7GKs06AU0DFAXB&categoryType=CODE&problemTitle=n-queen&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=1), [SWEA 파스칼의 삼각형](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&problemLevel=3&problemLevel=4&contestProbId=AV5P0-h6Ak4DFAUq&categoryId=AV5P0-h6Ak4DFAUq&categoryType=CODE&problemTitle=%ED%8C%8C%EC%8A%A4%EC%B9%BC&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=1)
+| 2 | 2023.02.05 ~ 2023.02.11 | 삼성 SW 역랑테스트 대비 | 
+| 3 | 2023.02.12 ~ 2023.02.18 | 삼성 SW 역랑테스트 대비 | 
+| 4 | 2023.02.19 ~ 2023.02.25 | 삼성 SW 역랑테스트 대비 | 
+| 5 | 2023.02.26 ~ 2023.03.03 | 삼성 SW 역랑테스트 대비 | 
+| 6 | 2023.02.27 ~ 2023.03.05 | 삼성 SW 역랑테스트 대비 | 
 
 <br/>
 
