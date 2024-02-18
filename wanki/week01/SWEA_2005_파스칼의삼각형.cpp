@@ -47,6 +47,7 @@ void print() {
 		cout << endl;
 	}
 }
+
 int main() {
 	freopen("sample_input.txt", "r", stdin);
 	int T;
