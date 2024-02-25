@@ -38,7 +38,7 @@ void print() {
     }
 }
 
-void fxxking_china() {
+void spread_dust() {
     int dust_extend[51][51] = { 0 };
 
     // 배열 분리
@@ -68,8 +68,6 @@ void fxxking_china() {
             map[i][j] = dust_extend[i][j];
         }
     }
-
-
 }
 
 void samsung() {
@@ -110,7 +108,7 @@ void samsung() {
 void solve() {
     for (int tc = 0; tc < T; tc++)
     {
-        fxxking_china();
+        spread_dust();
         samsung();
         //print();
     }
