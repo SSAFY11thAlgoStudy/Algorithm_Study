@@ -80,8 +80,8 @@ git commit -m "Upload: 본인 이름 / 날짜 / [문제제목] / 시간"
 | 2 | 2023.02.05 ~ 2023.02.11 | 삼성 SW 역랑테스트 대비 | [BOJ 뱀](https://www.acmicpc.net/problem/3190) , [BOJ 로봇 청소기](https://www.acmicpc.net/problem/14503),<br> [BOJ 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)
 | 3 | 2023.02.12 ~ 2023.02.18 | 삼성 SW 역랑테스트 대비 | [BOJ 주사위 굴리기](https://www.acmicpc.net/problem/14499), [BOJ 경사로](https://www.acmicpc.net/problem/14890), [BOJ 드래곤 커브](https://www.acmicpc.net/problem/15685)
 | 4 | 2023.02.19 ~ 2023.02.25 | 삼성 SW 역랑테스트 대비 | [BOJ 톱니바퀴](https://www.acmicpc.net/problem/14891), [BOJ 감시](https://www.acmicpc.net/problem/15683), [BOJ 아기상어](https://www.acmicpc.net/problem/16236)
-| 5 | 2023.02.26 ~ 2023.03.03 | 삼성 SW 역랑테스트 대비 | 
-| 6 | 2023.02.27 ~ 2023.03.05 | 삼성 SW 역랑테스트 대비 | 
+| 5 | 2023.02.26 ~ 2023.03.03 | 삼성 SW 역랑테스트 대비 | [SWEA 벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo&categoryId=AWXRQm6qfL0DFAUo&categoryType=CODE&problemTitle=%EB%B2%BD%EB%8F%8C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1), [SWEA 프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf&categoryId=AV4suNtaXFEDFAUf&categoryType=CODE&problemTitle=%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1), [SWEA 핀볼 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo&categoryId=AWXRF8s6ezEDFAUo&categoryType=CODE&problemTitle=%ED%95%80%EB%B3%BC&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+| 6 | 2023.03.04 ~ 2023.03.10 | 삼성 SW 역랑테스트 대비 | 
 
 <br/>
 
