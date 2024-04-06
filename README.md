@@ -84,7 +84,7 @@ git commit -m "Upload: 본인 이름 / 날짜 / [문제제목] / 시간"
 | 6 | 2023.03.04 ~ 2023.03.10 | 2024년 9차 Softeer 정기 역량 진단 대비 | [소프티어 성적 평가](https://softeer.ai/practice/6250) , [소프티어 플레이페어 암호](https://softeer.ai/practice/6255)
 | 7 | 2023.03.11 ~ 2023.03.17 | 2024년 공채 자기소개서 작성 | 
 | 8 | 2023.03.18 ~ 2023.03.24 | 2024년 9차 Softeer 정기 역량 진단 대비 | [소프티어 염기서열 커버](https://softeer.ai/practice/6249) , [소프티어 로봇이 지나간 경로](https://softeer.ai/practice/6275), [소프티어 출퇴근 길](https://softeer.ai/practice/6248)
-
+| 9 | 2023.03.25 ~ 2023.03.31 | 2024년 10차 Softeer 정기 역량 진단 대비 | [소프티어 자동차 테스트](https://softeer.ai/practice/6247) , [소프티어 순서대로 방문하기](https://softeer.ai/practice/6246), [소프티어 업무처리](https://softeer.ai/practice/6251)
 <br/>
 
 해당 README는 다음 레포지토리를 참고해서 제작하였습니다.
