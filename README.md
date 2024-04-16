@@ -86,7 +86,6 @@ git commit -m "Upload: 본인 이름 / 날짜 / [문제제목] / 시간"
 | 8 | 2023.03.18 ~ 2023.03.24 | 2024년 9차 Softeer 정기 역량 진단 대비 | [소프티어 염기서열 커버](https://softeer.ai/practice/6249) , [소프티어 로봇이 지나간 경로](https://softeer.ai/practice/6275), [소프티어 출퇴근 길](https://softeer.ai/practice/6248)
 | 9 | 2023.03.25 ~ 2023.03.31 | 2024년 9차 Softeer 정기 역량 진단 대비 | [소프티어 자동차 테스트](https://softeer.ai/practice/6247) , [소프티어 순서대로 방문하기](https://softeer.ai/practice/6246), [소프티어 업무처리](https://softeer.ai/practice/6251)
 | 10 | 2023.04.01 ~ 2023.04.07 | 2024년 상반기 공채 코딩테스트 대비 | [코드트리 루돌프의 반란](https://www.codetree.ai/training-field/frequent-problems/problems/rudolph-rebellion/description?page=1&pageSize=20) , [코드트리 왕실의 기사 대결](https://www.codetree.ai/training-field/frequent-problems/problems/royal-knight-duel/description?page=1&pageSize=20), [BOJ 세 용액](https://www.acmicpc.net/problem/2473)
-| 11 | 2023.04.08 ~ 2023.04.14 | 2024년 상반기 공채 코딩테스트 대비 | 각자 자율적으로 3문제 이상 진행
 <br/>
 
 해당 README는 다음 레포지토리를 참고해서 제작하였습니다.
