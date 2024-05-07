@@ -89,6 +89,7 @@ git commit -m "Upload: 본인 이름 / 날짜 / [문제제목] / 시간"
 | 11 | 2023.04.08 ~ 2023.04.14 | 2024년 상반기 공채 코딩테스트 대비 | 각자 자율적으로 3문제 이상 진행
 | 12 | 2023.04.15 ~ 2023.04.21 | 2024년 상반기 공채 코딩테스트 대비 | [BOJ 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) , [BOJ 좋다](https://www.acmicpc.net/problem/1253), [BOJ 회전 초밥](https://www.acmicpc.net/problem/15961)
 | 13 | 2023.04.22 ~ 2023.04.28 | 2024년 상반기 공채 코딩테스트 대비 | [BOJ 줄 세우기](https://www.acmicpc.net/problem/2252) , [BOJ 타일 채우기](https://www.acmicpc.net/problem/2133), [BOJ 두 배열의 합](https://www.acmicpc.net/problem/2143)
+| 14 | 2023.04.29 ~ 2023.05.05 | 2024년 상반기 공채 코딩테스트 대비 | [BOJ 우수 마을](https://www.acmicpc.net/problem/1949) , [BOJ 친구 네트워크](https://www.acmicpc.net/problem/4195), [BOJ 카드 정렬하기](https://www.acmicpc.net/problem/1715)
 <br/>
 
 해당 README는 다음 레포지토리를 참고해서 제작하였습니다.
