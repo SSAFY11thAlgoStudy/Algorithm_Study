@@ -1,6 +1,7 @@
 # Algorithm_Study
-> 싸피 11기 임베디드반 스터디 (2024-01-29 ~ ing)
-
+> 싸피 11기 임베디드반 스터디 (2024.01.29 ~ ing)
+1. 알고리즘 스터디 (2024.01.29 ~ 2024.05.05)
+2. CS 스터디 (2024.05.06 ~ ing)
 <br/>
 
 ### :pencil2: 사용 언어
@@ -90,6 +91,7 @@ git commit -m "Upload: 본인 이름 / 날짜 / [문제제목] / 시간"
 | 12 | 2024.04.15 ~ 2024.04.21 | 2024년 상반기 공채 코딩테스트 대비 | [BOJ 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) , [BOJ 좋다](https://www.acmicpc.net/problem/1253), [BOJ 회전 초밥](https://www.acmicpc.net/problem/15961)
 | 13 | 2024.04.22 ~ 2024.04.28 | 2024년 상반기 공채 코딩테스트 대비 | [BOJ 줄 세우기](https://www.acmicpc.net/problem/2252) , [BOJ 타일 채우기](https://www.acmicpc.net/problem/2133), [BOJ 두 배열의 합](https://www.acmicpc.net/problem/2143)
 | 14 | 2024.04.29 ~ 2024.05.05 | 2024년 상반기 공채 코딩테스트 대비 | [BOJ 우수 마을](https://www.acmicpc.net/problem/1949) , [BOJ 친구 네트워크](https://www.acmicpc.net/problem/4195), [BOJ 카드 정렬하기](https://www.acmicpc.net/problem/1715)
+| 15 | 2024.05.06 ~ 2024.05.12 | CS 스터디 Operating System 1회 차 | 운영체제란?, 프로세스와 스레드, 프로세스 주소 공간, 인터럽트, 시스템 콜
 <br/>
 
 해당 README는 다음 레포지토리를 참고해서 제작하였습니다.
